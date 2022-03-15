@@ -54,6 +54,9 @@
 ### *Servir en un plato hondo con limones y acompañar con una cerveza fría.*
 
 
+<p align="center">
+
+### *Bon appétit Equipo Hidra*
 
 
 
