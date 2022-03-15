@@ -2,11 +2,12 @@
 
 # BIENVENIDOS
 
-<div align= "justified"> 
-<img src="Imagenes/experiencia.png" width="100"> <img src="Imagenes/liverpool.png" width="100">
+<div align="left"> <img src="Imagenes/experienciag.png" width="70"> <div align="right"><img src="Imagenes/liverpool.png" width="100">
 
 
-## **SOPA VERDE DE MARISCOS**
+<div align="center">
+
+## **CALDO VERDE DE MARISCOS**
 
 <p align="center">
 
@@ -59,6 +60,10 @@
 
 
 ### *Servir en un plato hondo con limones y acompañar con una cerveza fría.*
+
+
+<div align="center"> 
+<img src="Imagenes/experienciag.png" width="70">
 
 
 <p align="center">
