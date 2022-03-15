@@ -2,6 +2,9 @@
 
 # BIENVENIDOS
 
+<div align= "justified"> 
+<img src="Imagenes/experiencia.png" width="100"> <img src="Imagenes/liverpool.png" width="100">
+
 
 ## **SOPA VERDE DE MARISCOS**
 
@@ -34,21 +37,25 @@
 ### *Preparación*
 </div>
 
-1.- Poner a desinfectar el cilantro
+#### A continuación presentamos la serie de pasos que tenemos que seguir para preparar esta deliciosa  receta.
 
-2.- Lavar el pescado y el camarón
+</div>
 
-3.- Poner a cocer el pescado con la cebolla y 5 dientes de ajo, agua y sal.
+1. Poner a desinfectar el cilantro
 
-4.- Lavar el cilantro y separar las hojas de los tallos, escoger algunos tallos delgados.
+2. Lavar el pescado y el camarón
 
-5.- El pescado cocido se debe desmenuzar.
+3. Poner a cocer el pescado con la cebolla y 5 dientes de ajo, agua y sal.
 
-6.- Tomar un poco del pescado para  licuarlo con el cilantro, algunos camarones, algunas almejas y un poco de pescado, cebolla y ajo. Moler finamente.
+4. Lavar el cilantro y separar las hojas de los tallos, escoger algunos tallos delgados.
 
-7.- En una olla freír un poco de cebolla y unos 2 dientes de ajo con aceite de oliva.
+5. El pescado cocido se debe desmenuzar.
 
-8.- Vertir la mezcla de la licuadora y el caldo sobrante del pescado, cuando esté a punto de hervir añadir los camarones, ostiones, pescado y almejas. Sazonar y dejar hervir.
+6. Tomar un poco del pescado para  licuarlo con el cilantro, algunos camarones, algunas almejas y un poco de pescado, cebolla y ajo. Moler finamente.
+
+7. En una olla freír un poco de cebolla y unos 2 dientes de ajo con aceite de oliva.
+
+8. Vertir la mezcla de la licuadora y el caldo sobrante del pescado, cuando esté a punto de hervir añadir los camarones, ostiones, pescado y almejas. Sazonar y dejar hervir, y listo!
 
 
 ### *Servir en un plato hondo con limones y acompañar con una cerveza fría.*
@@ -56,7 +63,7 @@
 
 <p align="center">
 
-### *Bon appétit Equipo Hidra*
+## *Bon appétit Equipo Hidra*
 
 
 
