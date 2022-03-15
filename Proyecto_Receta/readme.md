@@ -5,6 +5,13 @@
 
 ## **SOPA VERDE DE MARISCOS**
 
+<p align="center">
+
+
+<img src="images/sopa verde mariscos.jpg width="200">
+
+
+</p>
 
 ### *Lista de Ingredientes*
 
