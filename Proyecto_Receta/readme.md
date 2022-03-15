@@ -8,7 +8,7 @@
 <p align="center">
 
 
-<img src="images/sopa verde mariscos.jpg width="200">
+<img src="Imagenes/sopa verde mariscos.jpg width="200">
 
 
 </p>
