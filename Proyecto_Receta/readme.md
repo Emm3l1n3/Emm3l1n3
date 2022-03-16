@@ -1,8 +1,10 @@
+<div align="left"> <img src="Imagenes/experienciag.png" width="70"> 
+
 <div align="center">
 
-# BIENVENIDOS
+# BIENVENIDOS 
 
-<div align="left"> <img src="Imagenes/experienciag.png" width="70"> <div align="right"><img src="Imagenes/liverpool.png" width="100">
+
 
 
 <div align="center">
